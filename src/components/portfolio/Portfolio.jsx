@@ -85,9 +85,9 @@ const portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={Image7} alt=""></img>
           </div>
-          <h3>Note Taker</h3>
+          <h3>Hook-Em-Up</h3>
           <div className='portfolio__item-cta'>
-            <a href='' className='btn' target='_blank'>GitHub</a>
+            <a href='https://github.com/danielxgoldin/Hook-em-Up' className='btn' target='_blank'>GitHub</a>
             <a href='https://comfy-bubblegum-771910.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
