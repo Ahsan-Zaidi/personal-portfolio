@@ -92,7 +92,7 @@ No testing is currently set up
 
 ## 👪Contribution
 
-References: https://www.youtube.com/watch?v=G-Cr00UYokU
+Referances: https://www.youtube.com/watch?v=G-Cr00UYokU
 
 ## Questions
 
