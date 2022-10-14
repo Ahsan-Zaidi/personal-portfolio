@@ -28,7 +28,7 @@
 
 ✋ [GitHub Repository](https://github.com/Ahsan-Zaidi/personal-portfolio)
 
-✋ [Deployed Application URL] ()
+✋ [Deployed Application URL] (https://ahsan-zaidi.github.io/personal-portfolio/)
 
 ![Screen Shot](/src/assets/Screenshot.jpg)
 
@@ -92,7 +92,7 @@ No testing is currently set up
 
 ## 👪Contribution
 
-  Email me 
+References: https://www.youtube.com/watch?v=G-Cr00UYokU
 
 ## Questions
 
