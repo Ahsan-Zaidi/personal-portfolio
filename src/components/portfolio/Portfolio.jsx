@@ -6,7 +6,6 @@ import Image3 from '../../assets/image3.jpg'
 import Image4 from '../../assets/image4.jpg'
 import Image5 from '../../assets/image5.jpg'
 import Image6 from '../../assets/image6.jpg'
-import Image7 from '../../assets/image7.jpg'
 
 const portfolio = () => {
   return (
@@ -80,18 +79,6 @@ const portfolio = () => {
             <a href='https://note-takers01.herokuapp.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
-
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={Image7} alt=""></img>
-          </div>
-          <h3>Hook-Em-Up</h3>
-          <div className='portfolio__item-cta'>
-            <a href='https://github.com/danielxgoldin/Hook-em-Up' className='btn' target='_blank'>GitHub</a>
-            <a href='https://comfy-bubblegum-771910.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-
       </div>
     </section>
   )

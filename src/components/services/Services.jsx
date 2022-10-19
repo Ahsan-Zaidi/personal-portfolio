@@ -9,87 +9,89 @@ const Services = () => {
       <h2>Services</h2>
 
       <div className='continer services__container'>
-        <article className='service'>
+      <article className='service'>
           <div className='service__head'>
-            <h3>UI/UX Design</h3>
+            <h3>Frontend</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Intuative Navigation for user friendly experience.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Straightforward file structure for code maintenance.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Regularly commenting code to advocate collaboration.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Use of Handlebars to create immersive user interface.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Using REACT to make compartmentalized front end components.</p>
             </li>
           </ul>
         </article>
+
         <article className='service'>
           <div className='service__head'>
-            <h3>Web Development</h3>
+            <h3>Technologies</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>GitHub</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Insomnia</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Heroku</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>VS Code</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>JEST</p>
             </li>
           </ul>
         </article>
+
         <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>Backend</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Effecient code focused on rapid response times.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Use MVC framework to create server side data.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Regularly commenting code to advocate collaboration.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Manage relational databases through SQL</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Manage non-relational data objects with NoSQL</p>
             </li>
           </ul>
         </article>

@@ -38,7 +38,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Hi my name is Ahsan! I'm a Fullstack Web Developer.
+                        Hi, I'm Ahsan, a full-stack web developer. Growing up I always had a passion for art, It forms the way I see things. While most people tend to see programming as a problem to be solved. I like to think of it as a canvas waiting to be painted. By combining standard coding techniques with a touch of refreshing ingenuity, I believe we can achieve outstanding results. 
                     </p>
 
                     <a href='#contact' className='btn btn-primary'>Let's Talk</a>

@@ -25,9 +25,9 @@ const Testimonials = () => {
           <div className='client__avatar'>
             <img src={Avatar1} alt='Avatar'></img>
           </div>
-          <h5 className='client__name'>Linda Barnes</h5>
+          <h5 className='client__name'>Jessica Harris</h5>
             <small className='client__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum libero, minima eos autem, molestias corrupti nisi, optio eveniet obcaecati maxime mollitia quis? Sunt quibusdam harum recusandae eius unde consequuntur? Ad.
+              "We worked in collaboration to get my e-commerce app up and running. He was very helpful and overall a joy to work with." 
             </small>
         </SwiperSlide>
 
@@ -35,9 +35,9 @@ const Testimonials = () => {
           <div className='client__avatar'>
             <img src={Avatar2} alt='Avatar'></img>
           </div>
-          <h5 className='client__name'>Chris Good</h5>
+          <h5 className='client__name'>Kyle Emordi</h5>
             <small className='client__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum libero, minima eos autem, molestias corrupti nisi, optio eveniet obcaecati maxime mollitia quis? Sunt quibusdam harum recusandae eius unde consequuntur? Ad.
+              "5/5 stars! Ahsan was great. He helped get my website up and running; now I can sell beats without having to worry about my work being stolen online."
             </small>
         </SwiperSlide>
 
@@ -47,7 +47,7 @@ const Testimonials = () => {
           </div>
           <h5 className='client__name'>Ricky Chan</h5>
             <small className='client__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum libero, minima eos autem, molestias corrupti nisi, optio eveniet obcaecati maxime mollitia quis? Sunt quibusdam harum recusandae eius unde consequuntur? Ad.
+              "He transformed my old website giving it a whole new look. It also works on mobile! I love it!"
             </small>
         </SwiperSlide>
       </Swiper>
